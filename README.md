@@ -13,6 +13,9 @@ Market segmentation is the process of dividing a target market into smaller, mor
 - seaborn
 - matplotlib
 
+## Dataset:-
+[Link](https://www.kaggle.com/arjunbhasin2013/ccdata)
+
 
 
 
