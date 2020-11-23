@@ -16,6 +16,10 @@ Market segmentation is the process of dividing a target market into smaller, mor
 ## Dataset:-
 [Link](https://www.kaggle.com/arjunbhasin2013/ccdata)
 
+## Project Implmentation Layout
+
+![image](layout.png)
+
 
 
 
